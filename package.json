@@ -1,0 +1,21 @@
+{
+  "name": "ClassPro",
+  "version": "0.1.0",
+  "description": "my ticket to get one million dollars",
+  "main": "server.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "classpro",
+    "student",
+    "database",
+    "blog"
+  ],
+  "author": "akshata <nakshata1994@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.10.7",
+    "mongoose": "^3.8.21"
+  }
+}
